@@ -1,4 +1,4 @@
-# Should Automated Feature Selection Techniques be Applied when Interpreting Defect Models?
+# The Impact of Automated Feature Selection Techniques on the Interpretation of Defect Models
 
 ### Abstract
 ---
